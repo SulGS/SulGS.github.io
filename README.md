@@ -8,3 +8,7 @@ I enjoy working in teams and helping everyone to reach a common goal. There is n
 
 ##### Problem solving
 I consider that I have a quick logic to solve a problem and translate it into code.
+
+```java
+System.out.println("Hola mundo");
+```
