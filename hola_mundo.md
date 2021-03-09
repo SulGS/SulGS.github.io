@@ -10,5 +10,6 @@ title: Hola mundo
 
 **Hola mundo**
 
-| Hola | Mundo |
-| Mundo | Adios |
+```java
+System.out.println("Hola mundo");
+```
